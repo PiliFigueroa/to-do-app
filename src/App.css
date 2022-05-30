@@ -1,0 +1,6 @@
+.app-container {
+    max-width: 325px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 20px;
+}

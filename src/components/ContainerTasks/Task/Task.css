@@ -1,0 +1,25 @@
+.task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 210px;
+    background-color: #dedede;
+    border-radius: 5px;
+    padding: 0 15px;
+    margin: 10px 0;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.completed {
+    background-color: rgb(77, 224, 77);
+}
+
+.not-completed {
+    background-color: rgb(253, 58, 58);
+}
